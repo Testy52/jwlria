@@ -1,0 +1,14 @@
+[
+    {
+        "peer_name": "example_peer_1",
+        "short_name": "test_app_1"
+    },
+    {
+        "peer_name": "example_peer_2",
+        "short_name": "test_app_2"
+    },
+    {
+        "peer_name": "example_peer_3",
+        "short_name": "test_app_3"
+    }
+]
