@@ -1,8 +1,8 @@
-[
+{
     {
         "peer_name": "example_peer_1",
         "short_name": "test_app_1",
-        "ref":"ref1",
+        "ref":"ref1"
     },
     {
         "peer_name": "example_peer_2",
@@ -14,4 +14,4 @@
         "short_name": "test_app_3",
         "ref":"ref3"
     }
-]
+}
