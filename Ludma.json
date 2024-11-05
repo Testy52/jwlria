@@ -1,5 +1,5 @@
 {
-    codes:[
+    "codes":[
         {
             "peer_name": "example_peer_1",
             "short_name": "test_app_1",
