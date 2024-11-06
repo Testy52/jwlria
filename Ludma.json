@@ -4,7 +4,7 @@
             "peer_name": "PAWSOG_bot",
             "short_name": "PAWS",
             "ref":"ref1",
-            "headers" : [
+            "headers": [
                 "Accept": "application/json",
                 "Accept-Language": "ru",
                 "Connection": "keep-alive",
