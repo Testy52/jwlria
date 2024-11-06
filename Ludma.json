@@ -1,8 +1,8 @@
 {
     "codes":[
         {
-            "peer_name": "example_peer_1",
-            "short_name": "test_app_1",
+            "peer_name": "PAWSOG_bot",
+            "short_name": "PAWS",
             "ref":"ref1",
             "headers" : [
                 "Accept": "application/json",
@@ -19,15 +19,5 @@
             ],
             "url":"https://api.paws.community/v1/user/auth"
         },
-        {
-            "peer_name": "example_peer_2",
-            "short_name": "test_app_2",
-            "ref":"ref2"
-        },
-        {
-            "peer_name": "example_peer_3",
-            "short_name": "test_app_3",
-            "ref":"ref3"
-        }
     ]
 }
