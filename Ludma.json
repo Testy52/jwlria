@@ -63,8 +63,8 @@
             "url":"https://app.cexptap.com"
         },
         {
-            "peer_name": "tonstation",
-            "short_name": "app",
+            "peer_name": "tonstationgames_bot",
+            "short_name": "tonstationgames_bot",
             "ref":"",
             "headers": {
                 "content-type": "application/json",
@@ -72,7 +72,7 @@
                   "accept-encoding": "gzip, deflate",
                   "accept-language": "en-US,en;q=0.9",
                   "sec-fetch-mode": "cors",
-                  "origin": "app.origin",
+                  "origin": "https://tonstation.app/",
                   "user-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
                   "sec-fetch-dest": "empty",
                   "X-Requested-With": "org.telegram.messenger.web",
@@ -80,20 +80,20 @@
                   "Sec-Ch-Ua": "Google Chrome;v=125, Chromium;v=125, Not.A/Brand;v=24",
                   "Sec-Ch-Ua-Platform": "Android",
                   "Priority": "u=1, i",
-                  "Referrer": app.origin,
+                  "Referrer": "https://tonstation.app/",
                   "Sec-Fetch-Site": "same-origin",
                   "Sec-Ch-Ua-Platform-Version": "13.0.0",
                   "Sec-Ch-Ua-Full-Version": "130.0.6723.58",
                   "Sec-Ch-Ua-Mobile": "?1",
                   "Sec-Ch-Ua-Arch": "",
                   "Sec-Ch-Ua-Model": "SM-G925F",
-                  "Sec-Ch-Ua-Bitness": '""',
+                  "Sec-Ch-Ua-Bitness": "",
                   "Sec-Ch-Ua":"Google Chrome;v=125, Chromium;v=125, Not.A/Brand;v=24",
                   "Sec-Ch-Ua-Platform": "Android",
                   "Sec-Ch-Ua-Full-Version-List":"Chromium;v=130.0.6723.58, Android WebView;v=130.0.6723.58, Not?A_Brand;v=99.0.0.0",
                     
             },
-            "url":"https://app.cexptap.com"
+            "url":"https://tonstation.app/"
         }
         
     ]
