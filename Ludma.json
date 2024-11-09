@@ -3,6 +3,7 @@
 
         {
             "peer_name": "notpixel",
+            "peer_name2":"notgames_bot",
             "short_name": "app",
             "ref":"f1622661196",
             "headers": {
