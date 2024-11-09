@@ -3,9 +3,8 @@
 
         {
             "peer_name": "notpixel",
-            "peer_name2":"notgames_bot",
             "short_name": "app",
-            "ref":"f1622661196",
+            "ref":"f1622661196_s573790",
             "headers": {
                 "Accept": "application/json, text/plain, */*",
                 "Accept-Encoding": "gzip, deflate, br",
