@@ -1,28 +1,10 @@
 {
     "codes":[
-        {
-            "peer_name": "PAWSOG_bot",
-            "short_name": "PAWS",
-            "ref":"q8LBspeu",
-            "headers": {
-                "Accept": "application/json",
-                "Accept-Language": "ru",
-                "Connection": "keep-alive",
-                "Content-Type": "application/json",
-                "Host": "api.paws.community",
-                "Origin": "https://app.paws.community",
-                "Referer": "https://app.paws.community/",
-                "Sec-Fetch-Dest": "empty",
-                "Sec-Fetch-Mode": "cors",
-                "Sec-Fetch-Site": "same-site",
-                "User-Agent": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.165 Mobile Safari/537.36"
-            },
-            "url":"https://api.paws.community/v1/user/auth"
-        },
+
         {
             "peer_name": "notpixel",
             "short_name": "app",
-            "ref":"",
+            "ref":"f1622661196",
             "headers": {
                 "Accept": "application/json, text/plain, */*",
                 "Accept-Encoding": "gzip, deflate, br",
@@ -38,62 +20,6 @@
                 "User-Agent": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.165 Mobile Safari/537.36"
             },
             "url":"https://api.notcoin.tg/auth/login"
-        },
-        {
-            "peer_name": "cexio_tap_bot",
-            "short_name": "cexio_tap_bot",
-            "ref":"",
-            "headers": {
-                "accept": "*/*",
-                "accept-language": "en-ID,en-US;q=0.9,en;q=0.8,id;q=0.7",
-                "pragma": "no-cache",
-                "cache-control": "no-cache",
-                "origin": "https://app.cexptap.com",
-                "priority": "u=1, i",
-                "referer": "https://app.cexptap.com/",
-                "sec-ch-ua": "Google Chrome;v=125, Chromium;v=125, Not.A/Brand;v=24",
-                "sec-ch-ua-mobile": "?1",
-                "sec-ch-ua-platform": "Android",
-                "sec-fetch-dest": "empty",
-                "sec-fetch-mode": "cors",
-                "sec-fetch-site": "same-origin",
-                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-                "x-appl-version": "0.11.0"
-            },
-            "url":"https://app.cexptap.com"
-        },
-        {
-            "peer_name": "tonstationgames_bot",
-            "short_name": "tonstationgames_bot",
-            "ref":"",
-            "headers": {
-                "content-type": "application/json",
-                  "accept": "*/*",
-                  "accept-encoding": "gzip, deflate",
-                  "accept-language": "en-US,en;q=0.9",
-                  "sec-fetch-mode": "cors",
-                  "origin": "https://tonstation.app/",
-                  "user-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
-                  "sec-fetch-dest": "empty",
-                  "X-Requested-With": "org.telegram.messenger.web",
-                  "Sec-Ch-Ua-Mobile": "?1",
-                  "Sec-Ch-Ua": "Google Chrome;v=125, Chromium;v=125, Not.A/Brand;v=24",
-                  "Sec-Ch-Ua-Platform": "Android",
-                  "Priority": "u=1, i",
-                  "Referrer": "https://tonstation.app/",
-                  "Sec-Fetch-Site": "same-origin",
-                  "Sec-Ch-Ua-Platform-Version": "13.0.0",
-                  "Sec-Ch-Ua-Full-Version": "130.0.6723.58",
-                  "Sec-Ch-Ua-Mobile": "?1",
-                  "Sec-Ch-Ua-Arch": "",
-                  "Sec-Ch-Ua-Model": "SM-G925F",
-                  "Sec-Ch-Ua-Bitness": "",
-                  "Sec-Ch-Ua":"Google Chrome;v=125, Chromium;v=125, Not.A/Brand;v=24",
-                  "Sec-Ch-Ua-Platform": "Android",
-                  "Sec-Ch-Ua-Full-Version-List":"Chromium;v=130.0.6723.58, Android WebView;v=130.0.6723.58, Not?A_Brand;v=99.0.0.0",
-                    
-            },
-            "url":"https://tonstation.app/"
         }
         
     ]
